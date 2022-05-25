@@ -1,0 +1,38 @@
+.google_image {
+  width: 200px;
+  padding: 20px;
+}
+
+body {
+  text-align: center;
+}
+.header {
+  display: inline-block;
+}
+
+.images {
+  display: inline-block;
+  padding: 20px;
+}
+
+.advanced {
+  display: inline-block;
+  padding: 20px;
+}
+
+.bar {
+  margin: 20px;
+}
+
+input {
+  border-radius: 30px;
+}
+
+.searchbar_adv {
+  display: inline-block;
+  padding: 20px;
+}
+
+.adv_bar {
+  margin: 20px;
+}
